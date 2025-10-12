@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "imgs": [],
+    "_id": "68ec1c2739ebeac946795bd6",
+    "userId": "68ec1b599902760b6e726bc3",
+    "name": "USB الباك 2025 ⚡",
+    "price": 2900,
+    "Variants": [],
+    "Offers": [],
+    "show": true,
+    "type": "",
+    "images": [
+      "https://i.ibb.co/mWMKnVx/blob.png"
+    ],
+    "visit": 0,
+    "orders": 0,
+    "date": "2025-10-12T21:22:47.240Z",
+    "__v": 0
+  }
+]
