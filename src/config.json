@@ -7,8 +7,8 @@
   "repoName": "ninjadeals-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
-  "tiktok": "https://www.tiktok.com/@user387713052?_t=ZS-90V1YPf&_r=1",
-  "email": "sifonirmo@gmail.com",
+  "tiktok": "https://www.tiktok.com/",
+  "email": "raouf.hamoudi.r@gmail.com",
   "tiktokP": "",
   "FacebookP": "",
   "header": {
@@ -32,5 +32,11 @@
     "name": "next-commerce",
     "id": "next-commerce"
   },
-  "whatsapp": "+213 799 61 73 14"
+  "faqs": [
+    {
+      "question": "س1: هل الفلاشات التي تبيعونها أصلية؟",
+      "answer": "🅰️ نعم، جميع الفلاشات أصلية ومجربة قبل الشحن لضمان الجودة والأداء الممتاز.",
+      "id": "1760308815236"
+    }
+  ]
 }
