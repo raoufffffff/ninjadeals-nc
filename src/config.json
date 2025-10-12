@@ -2,13 +2,13 @@
   "id": "68ec1b599902760b6e726bc3",
   "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
   "store_name": "next-commerce",
-  "main_color": "#ab4949",
+  "main_color": "#001637ff",
   "phone": "0554562805",
   "repoName": "ninjadeals-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
-  "tiktok": "https://www.tiktok.com/",
-  "email": "raouf.hamoudi.r@gmail.com",
+  "tiktok": "https://www.tiktok.com/@user387713052?_t=ZS-90V1YPf&_r=1",
+  "email": "sifonirmo@gmail.com",
   "tiktokP": "",
   "FacebookP": "",
   "header": {
@@ -31,5 +31,6 @@
   "facebookPixel": {
     "name": "next-commerce",
     "id": "next-commerce"
-  }
+  },
+  "whatsapp": "+213 799 61 73 14"
 }
