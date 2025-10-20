@@ -52,46 +52,5 @@
     "orders": 0,
     "date": "2025-10-12T23:12:33.745Z",
     "__v": 0
-  },
-  {
-    "imgs": [],
-    "_id": "68f6485559f3133d780e65ef",
-    "userId": "68ec1b599902760b6e726bc3",
-    "name": "p'oijkjhkjh",
-    "price": 9000,
-    "Variants": [
-      {
-        "id": 0,
-        "name": "che3ba",
-        "type": "size",
-        "options": [
-          {
-            "name": "3ilmi"
-          },
-          {
-            "name": "adab"
-          },
-          {
-            "name": "math"
-          },
-          {
-            "name": ";omg"
-          }
-        ],
-        "curentOption": ""
-      }
-    ],
-    "Offers": [],
-    "show": true,
-    "type": "",
-    "images": [
-      "https://i.ibb.co/N6kpQs3S/blob.webp",
-      "https://i.ibb.co/prBtQryZ/blob.webp",
-      "https://i.ibb.co/CKwpNDqq/blob.webp"
-    ],
-    "visit": 0,
-    "orders": 0,
-    "date": "2025-10-20T14:33:57.164Z",
-    "__v": 0
   }
 ]
