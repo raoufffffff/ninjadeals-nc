@@ -1,7 +1,7 @@
 {
   "id": "68ec1b599902760b6e726bc3",
   "logo": "https://i.ibb.co/8DmR262k/blob.webp",
-  "store_name": "Ninja Deals",
+  "store_name": "TechStore DZ",
   "main_color": "#4650dd",
   "phone": "0554562805",
   "repoName": "ninjadeals-nc",
@@ -35,5 +35,6 @@
   "language": "ar",
   "whatsapp": "",
   "viber": "",
-  "snapchat": ""
+  "snapchat": "",
+  "EnableBerue": false
 }
